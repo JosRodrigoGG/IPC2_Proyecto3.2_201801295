@@ -1,0 +1,79 @@
+<LISTAAUTORIZACIONES>
+    <AUTORIZACION>
+        <FECHA>3/11/2021</FECHA>
+        <FACTURAS_RECIBIDAS>9</FACTURAS_RECIBIDAS>
+        <ERRORES>
+            <NIT_EMISOR ref="A1994">3333</NIT_EMISOR>
+        </ERRORES>
+        <FACTURAS_CORRECTAS>8</FACTURAS_CORRECTAS>
+        <CANTIDAD_EMISORES>5</CANTIDAD_EMISORES>
+        <CANTIDAD_RECEPTORES>4</CANTIDAD_RECEPTORES>
+        <LISTADO_AUTORIZACIONES>
+            <APROBACION>
+                <NIT_EMISOR ref="A1993">7378106</NIT_EMISOR>
+                <FECHA>
+                    <DIA>15/01/2021</DIA>
+                    <HORA>15:25</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295113</CODIGO_APROBACION>
+            </APROBACION>
+            <APROBACION>
+                <NIT_EMISOR ref="A2021">3216543</NIT_EMISOR>
+                <FECHA>
+                    <DIA>14/12/2017</DIA>
+                    <HORA>13:00</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295114</CODIGO_APROBACION>
+            </APROBACION>
+            <APROBACION>
+                <NIT_EMISOR ref="A1992">8338817</NIT_EMISOR>
+                <FECHA>
+                    <DIA>14/12/2017</DIA>
+                    <HORA>15:25</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295115</CODIGO_APROBACION>
+            </APROBACION>
+            <APROBACION>
+                <NIT_EMISOR ref="A1801">20363869</NIT_EMISOR>
+                <FECHA>
+                    <DIA>06/02/1999</DIA>
+                    <HORA>15:25</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295116</CODIGO_APROBACION>
+            </APROBACION>
+            <APROBACION>
+                <NIT_EMISOR ref="A1802">20363869</NIT_EMISOR>
+                <FECHA>
+                    <DIA>06/02/1999</DIA>
+                    <HORA>01:25</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295117</CODIGO_APROBACION>
+            </APROBACION>
+            <APROBACION>
+                <NIT_EMISOR ref="A1803">20363869</NIT_EMISOR>
+                <FECHA>
+                    <DIA>06/02/1999</DIA>
+                    <HORA>15:25</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295118</CODIGO_APROBACION>
+            </APROBACION>
+            <APROBACION>
+                <NIT_EMISOR ref="A1804">20363869</NIT_EMISOR>
+                <FECHA>
+                    <DIA>06/02/1999</DIA>
+                    <HORA>15:25</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295119</CODIGO_APROBACION>
+            </APROBACION>
+            <APROBACION>
+                <NIT_EMISOR ref="A1805">20363869</NIT_EMISOR>
+                <FECHA>
+                    <DIA>06/02/1999</DIA>
+                    <HORA>15:25</HORA>
+                </FECHA>
+                <CODIGO_APROBACION>201801295120</CODIGO_APROBACION>
+            </APROBACION>
+            <TOTAL_APROBACIONES>8</TOTAL_APROBACIONES>
+        </LISTADO_AUTORIZACIONES>
+    </AUTORIZACION>
+</LISTAAUTORIZACIONES>

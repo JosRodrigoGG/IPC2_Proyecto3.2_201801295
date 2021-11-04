@@ -1,0 +1,42 @@
+{
+  "SOLICITUD_AUTORIZACION": {
+    "DTE": [
+      {
+        "TIEMPO": "Nos encontramos en la Ciudad de Guatemala,\n            con fecha 15/01/2021 y hora 15:25.",
+        "REFERENCIA": "A1993",
+        "NIT_EMISOR": "7378106",
+        "NIT_RECEPTOR": "8338817",
+        "VALOR": "220.00",
+        "IVA": "30.00",
+        "TOTAL": "250.00"
+      },
+      {
+        "TIEMPO": "Guatemala, Introduccion a la programacion\n            y computacion 2.\n            Fecha 14/12/2017 y 13:00 hrs.",
+        "REFERENCIA": "A2021",
+        "NIT_EMISOR": "3216548",
+        "NIT_RECEPTOR": "7898456",
+        "VALOR": "100.00",
+        "IVA": "12.00",
+        "TOTAL": "112.00"
+      },
+      {
+        "TIEMPO": "Guatemala, Proyecto #3\n            15/01/2021 -------- 15:25 hrs.",
+        "REFERENCIA": "A1994",
+        "NIT_EMISOR": "7898456",
+        "NIT_RECEPTOR": "7378106",
+        "VALOR": "150.00",
+        "IVA": "12.00",
+        "TOTAL": "550.50"
+      },
+      {
+        "TIEMPO": "Ciudad de Guatemala\n            -- ## 14/12/2017 // 15:25 hrs",
+        "REFERENCIA": "A1992",
+        "NIT_EMISOR": "8338817",
+        "NIT_RECEPTOR": "3216548",
+        "VALOR": "1364.44",
+        "IVA": "186.06",
+        "TOTAL": "1550.50"
+      }
+    ]
+  }
+}
